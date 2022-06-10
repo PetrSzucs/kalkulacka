@@ -2,7 +2,7 @@ class kalkulacka:
 	@classmethod
 	def secti(cls,a:float,b:float) -> float:
 		'''
-		Tato funkce sинtб 2 funkce
+		Tato funkce scita 2 funkce
 		input:
 			a: float
 			b.float
