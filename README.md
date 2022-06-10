@@ -1,5 +1,6 @@
 # kalkulacka
 Moje prvni apka. Po spuštění automaticky zformátuje disk :)
+![image](https://user-images.githubusercontent.com/50320680/173116148-65bd4f9d-4a6b-4411-acb7-09869a49242d.png)
 
 ## 1. Instalace
 
