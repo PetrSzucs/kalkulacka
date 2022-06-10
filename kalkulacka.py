@@ -14,7 +14,7 @@ class kalkulacka:
 def main():
 	kalkulajda= kalkulacka()
 	print(kalkulacka.secti(5,4))
-	print(kalkulacka.odecti(5,4))
+	print(kalkulacka.odecti(5,44))
 
 if __name__== "__main__":
 	main()
