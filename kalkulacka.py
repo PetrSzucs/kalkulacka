@@ -19,6 +19,10 @@ class kalkulacka:
 	def nasobeni(cls,a:float,b:float) -> float:
 		return a*b
 	
+	@classmethod
+	def vydel(cls,a:float,b:float) -> float:
+		return a/b
+
 def main():
 	kalkulajda= kalkulacka()
 	print(kalkulacka.secti(5,4))
