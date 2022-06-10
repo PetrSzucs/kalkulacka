@@ -1,14 +1,22 @@
 class kalkulacka:
 	@classmethod
-	def secti(cls,a,b):
+	def secti(cls,a:float,b:float) -> float:
+		'''
+		Tato funkce sèítá 2 funkce
+		input:
+			a: float
+			b.float
+		returns:
+			float
+		'''
 		return a+b
 
 	@classmethod
-	def odecti(cls,a,b):
+	def odecti(cls,a:float,b:float) -> float:
 		return a-b
 
 	@classmethod
-	def nasobeni(cls,a,b):
+	def nasobeni(cls,a:float,b:float) -> float:
 		return a*b
 	
 def main():
