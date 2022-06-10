@@ -7,6 +7,10 @@ class kalkulacka:
 	def odecti(cls,a,b):
 		return a-b
 
+	@classmethod
+	def nasobeni(cls,a,b):
+		return a*b
+	
 def main():
 	kalkulajda= kalkulacka()
 	print(kalkulacka.secti(5,4))
